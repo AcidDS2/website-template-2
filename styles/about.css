@@ -1,0 +1,33 @@
+#about
+{
+    display:flex;
+    color: white;
+    background-color: black;
+}
+
+#about img
+{
+    display:block;
+    width:500px;
+    height:400px;
+    border: 2px solid white;
+    object-fit: cover;
+}
+
+#about #header 
+{
+    text-align: center;
+    font-size: 23px;
+}
+
+#about #text-container
+{
+    margin:auto;
+    margin-left: 50px;
+}
+
+#about #description 
+{
+    line-height: 1.5;
+    font-size: 18px;
+}
